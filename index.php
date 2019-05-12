@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script type="text/javascript" src="absoluteValuesSumMinization/absoluteValuesSumMinization.js"></script>
+    <script type="text/javascript" src="add/add.js"></script>
 </head>
 <body>
     
