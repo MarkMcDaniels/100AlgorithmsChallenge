@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script type="text/javascript" src="add/add.js"></script>
+    <script type="text/javascript" src="addTwoDigits/addTwoDigits.js"></script>
 </head>
 <body>
     
