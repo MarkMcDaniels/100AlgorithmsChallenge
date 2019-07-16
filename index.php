@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script type="text/javascript" src="alphabetSubsequence/alphabetSubsequence.js"></script>
+    <script type="text/javascript" src="areEquallyStrong/areEquallyStrong.js"></script>
 </head>
 <body>
     
